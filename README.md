@@ -12,7 +12,7 @@ Logarithmic edits, one comparison to verify a copy, four languages on one versio
 
 - `hashrope-acm-talk.pptx` / `hashrope-acm-talk.pdf` — slide deck for the one-hour slot: 25 slides + 2 backup, with full speaker notes timed to 60 minutes
 - `TALK_PLAN.md` — the hour, slide by slide, with timings and flex points
-- `hashrope_demo.ipynb` — companion demo notebook: edit, verify, and locate in Python; same bytes, same fingerprint in TypeScript
+- `hashrope_demo.ipynb` — companion demo notebook: edit, verify, and locate in Python; same bytes, same fingerprint in TypeScript. [Open it in Colab](https://colab.research.google.com/github/jemsbhai/hashrope-acm-talk/blob/master/hashrope_demo.ipynb)
 
 ## Links
 
